@@ -40,3 +40,13 @@ build/
 .idea/*.iml
 .idea/modules
 .idea/
+/client1/mvnw.cmd
+/client1/.gitattributes
+/client1/mvnw
+/client1/.mvn/
+/recommendations-api/.gitattributes
+/recommendations-api/mvnw
+/recommendations-api/mvnw.cmd
+/recommendations-api/.mvn/
+/video-api/.gitattributes
+/video-ranking-api/.gitattributes
